@@ -1,0 +1,668 @@
+{
+  "movies": [
+    {
+      "id": "Avatar-The-Way-of-Water",
+      "Ratings": 8.7,
+      "Votes": "171.5K",
+      "Format": "2D, 3D, 3D SCREEN X, 4DX 3D, IMAX 3D",
+      "Languages": "English, Kannada, Malayalam, Tamil, Telugu, Hindi",
+      "Duration": "3h 12m",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Date": "16 Dec, 2022",
+      "Info": "Set more than a decade after the events of the first film, `Avatar The Way of Water` begins to tell the story of the Sully family (Jake, Neytiri and their kid's), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive and the tragedies they endure.",
+      "src": "https://m.media-amazon.com/images/S/pv-target-images/189420c3dbf235953dbb719a513f845fe8422135b1008eadc67b8356ee4d2751.jpg",
+      "shows": {"show1":"12:15","show2":"15:15","show3":"18:15","show4":"21:15"}
+    },
+    {
+      "id": "Connect",
+      "Ratings": 6.4,
+      "Votes": "5.7K",
+      "Format": "2D",
+      "Languages": "Tamil, Telugu",
+      "Duration": "1h 39m",
+      "Genre": "Horror, Thriller",
+      "Date": "22 Dec, 2022",
+      "Info": "During the COVid-19 lockdown in India, a single mother notices strange changes in her daughter`s behavior after she tests positive with the virus. The mother tries to get medical help, but has no luck. Desperate for a solution, she seeks help from an old priest, who suggests a virtual exorcism over a zoom call.",
+      "src": "https://images.indianexpress.com/2022/12/nayanthara.jpg",
+      "shows": {"show1":"12:15","show2":"15:15","show3":"18:15","show4":"21:15"}
+    },
+    {
+      "id": "Sembi",
+      "Ratings": 8.9,
+      "Votes": "2k",
+      "Format": "2D",
+      "Languages": "Tamil",
+      "Duration": "2h 21m",
+      "Genre": "Drama",
+      "Date": "30 Dec, 2022",
+      "Info": "Sembi is a Tamil movie starring Ashwin Kumar Lakshmikanthan and Kovai Sarala in prominent roles. It is a drama directed by Prabhu Solomon forming part of the crew.If you are a representative of the production house, please share the details of the film with synopsis@bookmyshow.com",
+      "src": "https://imgeng.jagran.com/images/2023/feb/Sembi-OTT-Release-Date1675240314536.jpg",
+      "shows": {"show1":"12:15","show2":"15:15","show3":"18:15","show4":"21:15"}
+    },
+    {
+      "id": "Raangi",
+      "Ratings": 7.3,
+      "Votes": "1K",
+      "Format": "2D",
+      "Languages": "Tamil",
+      "Duration": "2h 2m",
+      "Genre": "Drama",
+      "Date": "30 Dec, 2022",
+      "Info": "Directed by Saravanan, Raangi is a Tamil movie starring Trisha in a prominent role. If you are a representative of the production house, please share the details of the film with synopsis@bookmyshow.com",
+      "src": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-0-1z5395713/list/1170x658withlogo5fdc28f04d4f444c812608fa14b4f2bf.jpg",
+      "shows": {"show1":"12:15","show2":"15:15","show3":"18:15","show4":"21:15"}
+    },
+    {
+      "id": "Driver Jamuna",
+      "Ratings": 7.4,
+      "Votes": "2.8K",
+      "Format": "2D",
+      "Languages": "Tamil, Telugu",
+      "Duration": "1h 44m",
+      "Genre": "Crime, Thriller",
+      "Date": "30 Dec, 2022",
+      "Info": "Jamuna, a woman taxi driver living near the outskirts of Chennai faces unexpected situations on a day trip. What will happen when she attempts to safeguard herself?",
+      "src": "https://static.toiimg.com/photo/95381237.cms",
+      "shows": {"show1":"12:15","show2":"15:15","show3":"18:15","show4":"21:15"}
+    },
+    {
+      "id": "Vidhya-Victim-Verdict",
+      "Ratings": 0,
+      "Votes": "1.4K",
+      "Format": "2D",
+      "Languages": "Tamil",
+      "Duration": "2h 7m",
+      "Genre": "Crime, Drama",
+      "Date": "6 Jan, 2023",
+      "Info": "V3 is a fight against an injustice on a gang rape-murder case. While the system fails initially due to the undue pressure, can poetic justice be achieved?",
+      "src": "https://static.toiimg.com/thumb/msid-96731497,width-1280,height-720,resizemode-4/96731497.jpg",
+      "shows": {"show1":"12:15","show2":"15:15","show3":"18:15","show4":"21:15"}
+    },
+    {
+      "id": "Laththi",
+      "Ratings": 7.5,
+      "Votes": "8.7K",
+      "Format": "2D",
+      "Languages": "Tamil, Hindi, Malayalam, Kannada",
+      "Duration": "2h 24m",
+      "Genre": "Action, Drama",
+      "Date": "22 Dec, 2022",
+      "Info": "Muruganantham is a suspended police constable who hits Vellai unaware he is the son of a notorious don. He is forced to confront the villains as his son is being exposed to villainy. Can he save his family and himself?",
+      "src": "https://filminformation.com/wp-content/uploads/2022/12/laththi-maxresdefault-1024x576.jpg",
+      "shows": {"show1":"12:15","show2":"15:15","show3":"18:15","show4":"21:15"}
+    },
+    {
+      "id": "Gatta Kusthi",
+      "Ratings": 8.8,
+      "Votes": "9K",
+      "Format": "2D",
+      "Languages": "Tamil",
+      "Duration": "2h 26m",
+      "Genre": "Drama, Sports",
+      "Date": "2 Dec, 2022",
+      "Info": "Veera, a male chauvinist, is seeking a bride with his own preconceived set of conditions. However, he unexpectedly ends up marrying Keerthi who is a polar opposite to his expectations. What will happen when the truth is revealed?",
+      "src": "https://assets-in.bmscdn.com/discovery-catalog/events/et00326206-zyppqcbhpz-landscape.jpg",
+      "shows": {"show1":"12:15","show2":"15:15","show3":"18:15","show4":"21:15"}
+    }
+  ],
+  "timings": [
+    {
+      "time": "12:15 PM"
+    },
+    {
+      "time": "3:15 PM"
+    },
+    {
+      "time": "6:15 PM"
+    },
+    {
+      "time": "9:15 PM"
+    }
+  ],
+  "LeftSeatData": [
+    {
+      "seatNo": "L1",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "L2",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "L3",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "L4",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "L5",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "L6",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "L7",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "L8",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "L9",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "L10",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "L11",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "L12",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "L13",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "L14",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "L15",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "L16",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "L17",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "L18",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "L19",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "L20",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "L21",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "L22",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "L23",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "L24",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "L25",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "L26",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "L27",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "L28",
+      "isBooked": false,
+      "200": false,
+      "price": 600
+    },
+    {
+      "seatNo": "L29",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "L30",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    }
+  ],
+  "CenterSeatData": [
+    {
+      "seatNo": "C1",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "C2",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "C3",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "C4",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "C5",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "C6",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "C7",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "C8",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "C9",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "C10",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "C11",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "C12",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "C13",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "C14",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "C15",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "C16",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "C17",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "C18",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "C19",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "C20",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "C21",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "C22",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "C23",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "C24",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "C25",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "C26",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "C27",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "C28",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "C29",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "C30",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    }
+  ],
+  "RightSeatData": [
+    {
+      "seatNo": "R1",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "R2",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "R3",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "R4",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "R5",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "R6",
+      "isBooked": true,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "R7",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "R8",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "R9",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "R10",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 600
+    },
+    {
+      "seatNo": "R11",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "R12",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "R13",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "R14",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "R15",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "R16",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "R17",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "R18",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "R19",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "R20",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 400
+    },
+    {
+      "seatNo": "R21",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "R22",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "R23",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "R24",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "R25",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "R26",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "R27",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "R28",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "R29",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    },
+    {
+      "seatNo": "R30",
+      "isBooked": false,
+      "emptyPosition": false,
+      "price": 200
+    }
+  ]
+}
